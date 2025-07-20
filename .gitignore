@@ -1,0 +1,7 @@
+.venv/
+*.csv
+*.xlsx
+*.log
+__pycache__/
+*.pyc
+condition_log.txt
