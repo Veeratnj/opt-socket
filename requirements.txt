@@ -1,9 +1,8 @@
 dhanhq==2.1
 pandas
-psycopg2
+psycopg2-binary
 python-dotenv
 sqlalchemy
-pydantic
 pydantic[email]
 attrs==23.1.0
 autobahn==23.6.2
@@ -16,6 +15,5 @@ cryptography==43.0.1
 hyperlink==21.0.0
 idna
 uvicorn[standard]
-psycopg2-binary
 urllib3
 websocket-client
